@@ -1,0 +1,13 @@
+.actions button {
+    cursor: pointer;
+    margin-left: 10px;
+    background-color: transparent;
+    border: none;
+        
+}
+.actions img {
+    width: 1.75rem;
+    cursor: pointer;
+    margin-left: 10px;
+    
+}
